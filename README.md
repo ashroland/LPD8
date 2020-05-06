@@ -9,7 +9,7 @@ By default, the LPD-8 feature map has namespace collisions. In rudimentary trial
 
 Download and install the [official LPD8 editing software](https://www.akaipro.com/lpd8) for your system. 
 
-Use the LPD8 editing software to set program maps. There are two corrected maps in the Program Maps folder, one is for cases where you'd like the pads to work as on/off buttons (CC Remap - Toggle Pads.lpd8) and the other is for the traditional velocity-sensitive pad mode (CC Remap - Momentary Pads.lpd8). Load either file and use the 'set' button on a program bank to write it to memory. 
+Use the LPD8 editing software to set program maps. There are two corrected maps in the Program Maps folder, one is for cases where you'd like the pads to work as on/off buttons (`CC Remap - Toggle Pads.lpd8`) and the other is for the traditional velocity-sensitive pad mode (`CC Remap - Momentary Pads.lpd8`). Load either file and use the 'set' button on a program bank to write it to memory. 
   
   
   
